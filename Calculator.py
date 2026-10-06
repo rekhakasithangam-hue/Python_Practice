@@ -18,3 +18,6 @@ while calculate == "Y":
     else:
         print("Check your Number")   
     calculate = input("Continue: Y/N")
+
+
+print("Thank you for using the calculator!")
